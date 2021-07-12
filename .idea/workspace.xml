@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c5183e5-87f5-460b-8dc7-758dfc5150dd" name="Default Changelist" comment="" />
+    <list default="true" id="1c5183e5-87f5-460b-8dc7-758dfc5150dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +15,11 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1v4JqB7XdwREwmodMIDnyQ9C3Ps" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -20,7 +27,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pubg" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -32,7 +41,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1625815615950</updated>
-      <workItem from="1625815617621" duration="2457000" />
+      <workItem from="1625815617621" duration="4362000" />
+      <workItem from="1626076347416" duration="1034000" />
     </task>
     <servers />
   </component>
@@ -40,6 +50,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="423" y="256" width="426" height="480" key="FileChooserDialogImpl" timestamp="1625819037211">
+      <screen x="0" y="0" width="1280" height="997" />
+    </state>
+    <state x="423" y="256" width="426" height="480" key="FileChooserDialogImpl/0.0.1280.997@0.0.1280.997" timestamp="1625819037211" />
     <state x="460" y="424" width="351" height="144" key="NewPhpFileDialog" timestamp="1625815904789">
       <screen x="0" y="0" width="1280" height="997" />
     </state>
